@@ -1,0 +1,3 @@
+rootProject.name = 'silverSearch'
+include 'search'
+
